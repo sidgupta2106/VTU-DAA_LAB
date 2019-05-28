@@ -1,0 +1,1 @@
+To effectively run this program, you need to install xgraph. To do this go to xgrpah.org the website has the required instructions to perform after downloading the file.
