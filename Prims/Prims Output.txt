@@ -1,0 +1,17 @@
+Enter the number of vertices
+6
+Enter the weighted graph
+0 3 99 99 6 5
+3 0 1 99 99 4
+99 1 0 6 99 4
+99 99 6 0 8 5
+6 99 99 8 0 2
+5 4 4 5 2 0
+Enter the source vertex
+1
+1->2=3
+2->3=1
+2->6=4
+6->5=2
+6->4=5
+The cost of minimum spanning tree is15

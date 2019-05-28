@@ -1,0 +1,15 @@
+enter the number of vertices
+5
+enter the weighted matrix
+0 3 99 7 99
+3 0 4 2 99
+99 4 0 5 6
+5 2 5 0 4
+99 99 6 4 0
+enter the source vertex
+0
+the shortest path between source0to remaining vertices are
+0 ->1 =3
+0 ->1 ->2 =7
+0 ->1 ->3 =5
+0 ->1 ->3 ->4 =9
