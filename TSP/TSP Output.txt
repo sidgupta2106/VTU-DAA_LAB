@@ -1,18 +1,10 @@
 Output:
 Enter no. of nodes:=>
 4
-Enter weight of 1 to 2:=>2
-Enter weight of 1 to 3:=>5
-Enter weight of 1 to 4:=>7
-Enter weight of 2 to 1:=>2
-Enter weight of 2 to 3:=>8
-Enter weight of 2 to 4:=>3
-Enter weight of 3 to 1:=>5
-Enter weight of 3 to 2:=>8
-Enter weight of 3 to 4:=>1
-Enter weight of 4 to 1:=>7
-Enter weight of 4 to 2:=>3
-Enter weight of 4 to 3:=>1
-Starting node assumed to be node 1.
-The tour is 1-2-4-3-1
-The final cost is 11
+Enter the weighted matrix:
+0 2 5 7
+2 0 8 3
+5 8 0 1
+7 3 1 0
+The cost is 11
+
