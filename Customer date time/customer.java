@@ -7,7 +7,9 @@ class customer
   public void read()
   {
     Scanner input =new Scanner(System.in);
+    System.out.println("Enter your name");
     name=input.next();
+    System.out.println("Enter your DOB");
     date=input.next();
   }
   public void display()
