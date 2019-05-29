@@ -1,8 +1,6 @@
 import java.util.Scanner;
-public class Dijkstra {
-/**
-* @param args
-*/
+public class Dijkstra 
+{
 int d[]=new int[10];
 int p[]=new int[10];
 int visited[]=new int[10];
