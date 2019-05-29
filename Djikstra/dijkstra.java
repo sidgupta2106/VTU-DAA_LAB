@@ -20,10 +20,10 @@ public class Dijkstra
 						{
 								if(d[j]<min&& visited[j]==0)
 								{
-								min=d[j];
-								u=j;
+									min=d[j];
+									u=j;
 								}
-				}
+						}
 						visited[u]=1;
 						for(v=0;v<n;v++)
 						{
@@ -33,8 +33,8 @@ public class Dijkstra
 										p[v]=u;
 								}
 						}
-					}
 				}
+	}
     void path(int v,int s)
     {
 				if(p[v]!=-1)
