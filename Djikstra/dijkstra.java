@@ -71,8 +71,7 @@ public class Dijkstra
 				s=sc.nextInt();
 				Dijkstra tr=new Dijkstra();
 				tr.dijk(a,s,n);
-				System.out.println("the shortest path between source"+s+"to remaining
-				vertices are");
+				System.out.println("the shortest path between source"+s+"to remaining vertices are");
 				tr.display(s,n);
 				sc.close();
     }
